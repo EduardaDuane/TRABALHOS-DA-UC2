@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(50, 144, 231);
+    text-align: center;
+    color: #ffffff;
+}
+
+.caixa{
+    background-color: rgb(9, 74, 252);
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 50px;
+    color: #ffffff;
+}
