@@ -74,14 +74,13 @@ console.log(frase2)
 console.log(frase3)
 console.log(frase2.length)*/
 
-const frase = "    kamehameha , genki-dama , kaioken , spirit bomb"
+/*const frase = "    kamehameha , genki-dama , kaioken , spirit bomb"
 const frase1 = frase.trim()
 const frase2 = frase1.toLocaleUpperCase()
 const frase3 = frase2.replaceAll("," , "|")
 
 console.log(frase3)
 console.log(frase3.includes("SPIRIT BOMB"))
-console.log(frase3.length)
-
+console.log(frase3.length)*/
 
 
